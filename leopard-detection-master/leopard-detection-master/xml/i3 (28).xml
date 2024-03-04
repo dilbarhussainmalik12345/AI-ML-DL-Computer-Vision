@@ -1,0 +1,38 @@
+<annotation>
+	<folder>leopards</folder>
+	<filename>i3 (28).jpg</filename>
+	<path>F:\leopards\i3 (28).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3300</width>
+		<height>2550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1305</xmin>
+			<ymin>247</ymin>
+			<xmax>2534</xmax>
+			<ymax>2169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1018</xmin>
+			<ymin>334</ymin>
+			<xmax>2445</xmax>
+			<ymax>2158</ymax>
+		</bndbox>
+	</object>
+</annotation>

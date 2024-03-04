@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grayscale</folder>
+	<filename>l4 (49).jpg</filename>
+	<path>D:\Haz Mat\Projects\Safety\Grayscale\l4 (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1611</ymin>
+			<xmax>3634</xmax>
+			<ymax>4144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>leopard datasets</folder>
+	<filename>I197.jpg</filename>
+	<path>C:\Users\Manjot\Desktop\leopard datasets\I197.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>240</ymin>
+			<xmax>770</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>245</ymin>
+			<xmax>255</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
